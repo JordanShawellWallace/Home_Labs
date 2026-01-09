@@ -45,8 +45,8 @@ This structure emphasizes decision-making and investigation methodology rather t
 
 ## Labs
 
-- Lab 01: SIEM Log Analysis and Alert Triage
-- Lab 02: Network Traffic Analysis (PCAP Investigation)
+- Lab 01: Authentication Log Analysis – Detected repeated failed SSH authentication attempts using Linux system logs
+- Lab 02: Network Traffic Analysis – Identified HTTP-based command-and-control activity using PCAP analysis
 - Lab 03: Endpoint and Process Behavior Analysis
 - Lab 04: Threat Intelligence and ATT&CK Mapping
 - Lab 05: Vulnerability Assessment and Risk Analysis
